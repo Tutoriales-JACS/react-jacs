@@ -1,0 +1,11 @@
+@import url('../node_modules/bootstrap/dist/css/bootstrap.css');
+body{
+  background-color: #202020;
+}
+
+.card{
+  border-radius: 15px;
+}
+.card .card-header{
+  background-color: rgba(99, 247, 1, 0.3);
+}
